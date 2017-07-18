@@ -1,0 +1,61 @@
+#container{
+    padding-top:100px;
+    text-align: center;
+}
+
+h2{
+    padding-bottom: 25px;
+}
+
+#left{
+    background-position:left;
+    position: relative;
+    display: inline-block;
+    width: 33%;
+}
+
+#mid{
+    background-position:center;
+    position:relative;
+    display:inline-block;
+    width:33%;
+}
+
+#right{
+    background-position:right;
+    position: relative;
+    display: inline-block;
+    width:33%;
+}
+
+#a1{
+    padding-top: 15px;
+}
+
+#a2{
+
+}
+
+#a3{
+
+}
+
+#a4{
+
+}
+
+#a5{
+
+}
+
+#a6{
+
+}
+
+#a7{
+
+}
+
+#a8{
+
+}

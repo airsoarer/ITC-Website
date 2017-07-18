@@ -1,0 +1,37 @@
+body{
+    background-color: #a0d4a4;
+}
+ul{
+	text-decoration: none;
+	color: white;
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	list-style-type: none;
+}
+
+a{
+	text-decoration: none;
+	transition-duration: 1s;
+    color:black;
+}
+
+a:hover{
+    color:#00b4ff;
+}
+
+li{
+	float: left;
+}
+
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#statement{
+    padding-top: 100px;
+    text-align: center;
+}
