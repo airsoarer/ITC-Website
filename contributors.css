@@ -1,0 +1,35 @@
+#container{
+    padding-top:100px;
+    text-align: center;
+}
+
+img{
+    width:400px;
+    height: 250px;
+}
+
+h2{
+    padding-bottom: 25px;
+}
+
+#left{
+    background-position:left;
+    position: relative;
+    display: inline-block;
+    width: 33%;
+}
+
+#mid{
+    background-position:center;
+    position:relative;
+    display:inline-block;
+    width:33%;
+}
+
+#right{
+    background-position:right;
+    position: relative;
+    display: inline-block;
+    width:33%;
+}
+
