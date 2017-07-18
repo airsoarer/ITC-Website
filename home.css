@@ -1,6 +1,19 @@
-body{
-    background-color: #a0d4a4;
+*{
+    margin: 0px;
 }
+body{
+    background-color: #62BECB;
+    margin: 0px;
+    color: white;   
+    font-family: 'Quicksand' , sans-serif;
+}
+
+footer{
+    padding-bottom:200px;
+    background-color:#00b;
+    margin:0px;
+}
+
 ul{
 	text-decoration: none;
 	color: white;
@@ -13,11 +26,11 @@ ul{
 a{
 	text-decoration: none;
 	transition-duration: 1s;
-    color:black;
+    color:white;
 }
 
 a:hover{
-    color:#00b4ff;
+    color:#00b;
 }
 
 li{
@@ -34,4 +47,12 @@ li a {
 #statement{
     padding-top: 100px;
     text-align: center;
+}
+
+.active{
+    background-color: #00b;
+}
+
+h1{
+
 }
