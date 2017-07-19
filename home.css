@@ -1,5 +1,6 @@
 *{
     margin: 0px;
+    font-size:18px;
 }
 body{
     background-color: #62BECB;
@@ -11,7 +12,8 @@ body{
 footer{
     padding-bottom:200px;
     background-color:#00b;
-    margin-top:200px;
+    margin:0px;
+    margin-top: 200px;
 }
 
 ul{
