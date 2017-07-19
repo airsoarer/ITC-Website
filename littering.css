@@ -1,3 +1,8 @@
 h2{
     padding-top: 100px;
 }
+
+img{
+    float:right;
+    padding-right:5px;
+}
