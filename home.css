@@ -1,6 +1,5 @@
 *{
     margin: 0px;
-    font-size:18px;
 }
 body{
     background-color: #62BECB;
@@ -55,6 +54,6 @@ li a {
     background-color: #00b;
 }
 
-h1{
-
+p{
+	font-size:18px;	
 }
