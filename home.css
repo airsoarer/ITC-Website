@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: #62BECB;
+    margin: 0px;
+    color: black;   
+    font-family: 'Quicksand' , sans-serif;
+    font-size:24px;
+}
+
+footer{
+    padding-bottom:200px;
+    background-color:#00b;
+    margin:0px;
+    margin-top: 200px;
+}
+
+ul{
+	text-decoration: none;
+	color: white;
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	list-style-type: none;
+}
+
+a{
+	text-decoration: none;
+	transition-duration: 1s;
+    color:black;
+}
+
+a:hover{
+    color:#00b;
+}
+
+li{
+	float: left;
+}
+
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#statement{
+    padding-top: 100px;
+    text-align: center;
+}
+
+.active{
+    background-color: #00b;
+}
+
+p{
+    font-size: 18px;
+}

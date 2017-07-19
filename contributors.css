@@ -1,0 +1,49 @@
+#container{
+    padding-top:100px;
+    text-align: center;
+}
+
+#innovativeBlrub{
+    padding-top: 100px;
+    text-align: center;
+}
+
+img{
+    width:400px;
+    height: 250px;
+    padding-top:5px;
+}
+
+h2{
+    padding-bottom: 25px;
+}
+
+#left{
+    background-position:left;
+    position: relative;
+    display: inline-block;
+    width: 33%;
+}
+
+#mid{
+    background-position:center;
+    position:relative;
+    display:inline-block;
+    background-color:#a0d4a4;
+    margin: 0px;
+}
+
+#right{
+    background-position:right;
+    position: relative;
+    display: inline-block;
+    width:33%;
+}
+
+#by{
+    margin:0px;
+}
+
+footer{
+    margin-top:0px;
+}
