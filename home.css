@@ -63,4 +63,6 @@ p{
 
 img{
     padding-top: 5px;
+	margin:auto;
+	display:inline-table;
 }
