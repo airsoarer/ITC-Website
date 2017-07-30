@@ -17,7 +17,6 @@ function init(){
 function post(){
   var txtName = $('#txtname').val();
   var txtMessage = $('#txtcomments').val();
-  
   firebase = firebase.database().ref('Messages').push({
       Name:txtName,
       Message:txtMessage,
@@ -26,7 +25,7 @@ function post(){
 
   var myFirebase = fireabse.database().ref('Messages');
   var startListening = function(){
-    myfirebase.once('child_added', function(snapshot){
+    myFirebase.once('child_added', function(snapshot){
       var data = snapshot.val();
       console.log(data);
       
