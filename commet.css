@@ -13,7 +13,8 @@ button{
 }
 
 #messages{
-    height:100px;
+    max-height:10000px;
     float: right;
     padding-right:10px;
+    width:500px;
 }
